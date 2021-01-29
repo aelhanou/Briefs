@@ -1,4 +1,4 @@
 # Briefs
 
-<img src="mockup.png" alt="mockup"/>
+<img src="Mokup_XD.jpg" alt="mockup"/>
 
